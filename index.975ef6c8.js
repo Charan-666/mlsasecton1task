@@ -27091,7 +27091,7 @@ var _stylesCss = require("./styles.css");
     title: "Alpha MLSA",
     email: "gcharan6366@gmail.com",
     gitHub: "https://github.com/Charan-666",
-    instagram: "microsoft",
+    instagram: "",
     linkedIn: "https://www.linkedin.com/in/g-charan-b502a2253",
     medium: "",
     twitter: "",
