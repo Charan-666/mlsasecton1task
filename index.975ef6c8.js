@@ -28761,7 +28761,7 @@ const imageAltText = "my electronic gadgets at one place";
     {
         title: "Ai chatbot for college website",
         description: " Developed AI-based chatbot using Python Rasa framework for college website - Implemented conversational AI model training with NLU, Dialogue Management and Action policies - Utilized Git and GitHub for project version control and collaboration - Leveraged Docker for deploying the AI model into production",
-        url: "https://github.com/Charan-666/rasa_project"
+        url: "https://github.com/Charan-666/rasa-chatbot"
     },
     {
         title: "Static e-commerce website",
