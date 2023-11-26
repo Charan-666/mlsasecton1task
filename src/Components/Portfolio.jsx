@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/computer.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "my electronic gadgets at one place";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Ai chatbot for college website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      " Developed AI-based chatbot using Python Rasa framework for college website - Implemented conversational AI model training with NLU, Dialogue Management and Action policies - Utilized Git and GitHub for project version control and collaboration - Leveraged Docker for deploying the AI model into production",
+    url: "https://github.com/Charan-666/rasa-chatbot",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Static e-commerce website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      " Developed full responsive, static e-commerce website using HTML, CSS, and JavaScript, achieving premium look and feel. - Utilized e-commerce tools to enhance user experience. - Implemented design principles to ensure site was visually appealing and easy to navigate. - Tested site for usability and performance",
+       url: "https://github.com/Charan-666/Ecommerce.github.io",
   },
   {
-    title: "My Resume Site",
+    title: "student accomodation",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "- Developed a full stack webpage as a hobby project during trainings - Implemented HTML, CSS, PHP, JavaScript, DBMS, and React to create the webpage  - Demonstrated proficiency in utilizing various technologies to enhance functionality - Successfully designed and implemented a user-friendly interface for the webpage - Incorporated database management to efficiently store and retrieve data - Showcased ability to work independently and take ownership of project deliverables - Achieved desired objectives by effectively utilizing a range of programming languages and frameworks",
+       url: "https://github.com/Charan-666/PGlife-accomodation",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "donation portal",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " Demonstrated passion for learning and growth through successful completion of a project - Implemented integration of a payment gateway to enhance the functionality of a webpage - Mastered the art of aligning elements on the webpage, ensuring a visually appealing design - Acquired valuable knowledge and skills through project, further enhancing my expertise in web development",
+    url: "https://github.com/Charan-666/clemency.github.io",
   },
 ];
 
